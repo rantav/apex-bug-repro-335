@@ -1,6 +1,7 @@
 
 {
   "name": "test",
+  "role": "arn:aws:iam::032352966958:role/crawler-lambda",
   "description": "testing",
   "memory": 128,
   "timeout": 5,
